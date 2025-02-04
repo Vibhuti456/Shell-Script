@@ -2,15 +2,11 @@
 
 def my_function():
 
-    a=5
-    b=7
-    c=9
+    a = 5
+    b = 7
+    c = a + b
 
-    return d
+    return c
 
 
 my_function()
-
-
-
-test() 
