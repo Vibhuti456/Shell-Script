@@ -4,8 +4,9 @@ def my_function():
 
     a=5
     b=7
+    c=9
 
-    return c
+    return d
 
 
 my_function()
